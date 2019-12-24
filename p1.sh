@@ -22,4 +22,4 @@ Code number:$code
 File name:$FNAME
 IP Address:$ip"
 
-# end of the script
+# end of the line
