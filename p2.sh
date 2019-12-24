@@ -1,7 +1,7 @@
 #!/bin/bash
 # Author:Mr.Palani Karthikeyan
-# Write a shell script - declare and initialize employee details(name,working department,place,empid) to local variables
-# 
+# Write a shell script 
+# Initialize employee details such as name,id,department,place and display to the monitor.
 
 name="Mr.Ram kumar" 
 dept=Sales
