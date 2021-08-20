@@ -1,0 +1,9 @@
+
+echo "A.$myport"
+db=$1
+. /home/apelix/ShellScript/myfile.env
+echo "B.$myport"
+
+f=$2
+. /home/apelix/ShellScript/$f.env
+echo "C.$myport"
