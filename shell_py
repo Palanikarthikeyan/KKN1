@@ -1,0 +1,5 @@
+def fx():
+	encrypt="AB1234"
+	return encrypt
+
+print(fx())
